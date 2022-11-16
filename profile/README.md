@@ -1,4 +1,4 @@
-## ID2222 Data Mining course at KTH 2022 - Brando Chiminelli, Tommaso Praturlon
+## ID2222 Data Mining course at KTH - Brando Chiminelli, Tommaso Praturlon - Autumn 2022
 
 <!--
 
